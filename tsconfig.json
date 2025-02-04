@@ -14,7 +14,6 @@
   "include": [
     "src/**/*",
     "vitest.config.ts",
-    "mongodb/**/*",
     "eslintrc.cjs",
     "prettier.config.js"
   ],

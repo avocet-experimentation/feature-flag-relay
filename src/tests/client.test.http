@@ -1,3 +1,4 @@
+# TODO: update these tests
 @baseUrl=localhost:3524/client
 
 ### Creates a new flag
