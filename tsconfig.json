@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "target": "esnext",
+    "types": ["vitest/globals"],
+    "sourceMap": true,
+    "outDir": "dist",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true
+  },
+  "include": [
+    "src/**/*",
+    "vitest.config.ts",
+    "mongodb/**/*",
+    "eslintrc.cjs",
+    "prettier.config.js"
+  ],
+  "exclude": ["node_modules"]
+}
